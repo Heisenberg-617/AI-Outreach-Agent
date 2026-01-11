@@ -590,8 +590,6 @@ MIT License - Feel free to use, modify, and distribute this project.
 ## 📞 Support & Contact
 
 **Creator:** Baddy Reda  
-**Email:** [reda.baddy@emines.um6p.ma] 
-**WhatsApp:** +212 770 244 313  
 **Status:** UM6P Student | AI & Agents Enthusiast  
 
 ---
