@@ -1,0 +1,22 @@
+[
+  {
+    "business_name": "Clinique Dentaire Al Wifaq",
+    "city": "Casablanca",
+    "category": "Dentist",
+    "rating": 4.5,
+    "reviews": 183,
+    "email": "example1@domaine.com",
+    "owner_name": "Dr. El Amrani",
+    "has_website": false
+  },
+  {
+    "business_name": "Atlas Fitness",
+    "city": "Rabat",
+    "category": "Gym",
+    "rating": 4.2,
+    "reviews": 146,
+    "email": "example2@domaine.com",
+    "owner_name": null,
+    "has_website": false
+  }
+]

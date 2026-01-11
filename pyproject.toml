@@ -1,0 +1,45 @@
+[project]
+name = "ai-outreach-agent"
+version = "0.1.0"
+description = "Autonomous AI agent for prospect outreach and cold email campaigns"
+readme = "README.md"
+authors = [
+    { name="Reda Baddy", email="reda.baddy@emines.um6p.ma" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    # CORE AGENTS SDK (your main framework)
+    "openai-agents>=0.0.17",
+    
+    # LLM CLIENTS
+    "groq==1.0.0",
+    "openai>=1.85.0",
+    
+    # HTTP & UTILS
+    "requests>=2.32.4",
+    "python-dotenv>=1.1.0",
+    
+    # EMAIL
+    "sendgrid>=6.12.3",  # Better than smtplib
+    
+    # DATA & PATHS
+    "pydantic>=2.0.0",
+    "pathlib>=1.0.1",
+    
+    # ASYNC
+    "asyncio",
+    
+    # PARSING
+    "lxml>=5.4.0",
+    
+    # DEVELOPMENT
+    "httpx>=0.28.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "black>=24.0.0",      # Code formatter
+    "mypy>=1.10.0",       # Type checker
+    "pytest>=8.0.0",      # Testing
+]

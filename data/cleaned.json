@@ -1,0 +1,67 @@
+[
+  {
+    "name": "House of smiles dental center",
+    "email": "elhad@casacitysmile.com",
+    "owner": "Hala Riah",
+    "city": "Casablanca",
+    "address": "H99C+FVC, Casablanca 20250, Morocco"
+  },
+  {
+    "name": "Centre Dentaire MORTADA",
+    "email": "kamalmortada32@gmail.com",
+    "owner": "Dr. Kamal Mortada",
+    "city": "Casablanca",
+    "address": "Lot Habiba, n°, En face de Maroc télécom, El Haj Fateh, 124 Bd Oued Edaoura, Casablanca 20220, Morocco"
+  },
+  {
+    "name": "Mikou Dentaire (Centre Dentaire à Casablanca)",
+    "email": "fouadmikou@gmail.com",
+    "owner": "MIKOU FOUAD",
+    "city": "Casablanca",
+    "address": "2ème étage, Résidence Méditerranée II, 110 Av. 2 Mars, Casablanca 20250, Morocco"
+  },
+  {
+    "name": "Centre dentaire la nation",
+    "email": "Rdv@centrelanation.ma",
+    "phone": "+212 600-121280",
+    "owner": "Centre dentaire la nation",
+    "city": "Casablanca",
+    "address": "200 Bd de Beni M'guild, Casablanca 20250, Morocco"
+  },
+  {
+    "name": "Centre dentaire SKELLIA Oulfa - Dr El Machouri Houda",
+    "email": "c.d.chifaa@gmail.com",
+    "owner": "Dr El Machouri Houda",
+    "city": "Casablanca",
+    "address": "Hay Hassani dior nasrani, Rue 15, lotissemen sikilia, Casablanca 20200, Morocco"
+  },
+  {
+    "name": "Centre dentaire Al Mouahidine",
+    "email": "contact@almouahidine.ma",
+    "owner": "Clinique AlMouahidine",
+    "city": "Casablanca",
+    "address": "Residence Ibn Toumart 1, immeuble C, résidence Al Mouahidine, Casablanca 20550, Morocco"
+  },
+  {
+    "name": "Cabinet Dentaire les Princesses - Docteur Samia Essaidi",
+    "email": "samia-ess@hotmail.com",
+    "owner": "Dr. Samia Essaidi",
+    "city": "Casablanca",
+    "address": "Al Mawlid Residence, extension - Les princesses, 27 Rue abou Lhassan es-sghir, Casablanca, Morocco"
+  },
+  {
+    "name": "Centre dentaire Afifi Ibtissam",
+    "phone": "06 64 69 69 94",
+    "owner": "Dr AFIFI Ibtissam",
+    "city": "Casablanca",
+    "address": "P3007, Casablanca, Morocco"
+  },
+  {
+    "name": "Beaulieu centre dentaire (Dr. Farkah Loubna)",
+    "email": "beaulieucentredentaire@gmail.com",
+    "owner": "Dr. Farkah Loubna",
+    "city": "Casablanca",
+    "address": "2ème étage n° 3, 75 Bd Chefchaouni, Casablanca 20250, Morocco"
+  }
+
+]

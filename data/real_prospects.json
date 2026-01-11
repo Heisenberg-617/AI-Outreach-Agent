@@ -1,0 +1,306 @@
+[
+  {
+    "name": "House of smiles dental center",
+    "email": "elhad@casacitysmile.com",
+    "owner": "Hala Riah",
+    "city": "Casablanca",
+    "address": "H99C+FVC, Casablanca 20250, Morocco"
+  },
+  {
+    "name": "Centre Dentaire MORTADA",
+    "email": "kamalmortada32@gmail.com",
+    "owner": "Dr. Kamal Mortada",
+    "city": "Casablanca",
+    "address": "Lot Habiba, n°, En face de Maroc télécom, El Haj Fateh, 124 Bd Oued Edaoura, Casablanca 20220, Morocco"
+  },
+  {
+    "name": "Mikou Dentaire (Centre Dentaire à Casablanca)",
+    "email": "fouadmikou@gmail.com",
+    "owner": "MIKOU FOUAD",
+    "city": "Casablanca",
+    "address": "2ème étage, Résidence Méditerranée II, 110 Av. 2 Mars, Casablanca 20250, Morocco"
+  },
+  {
+    "name": "Centre dentaire la nation",
+    "email": "Rdv@centrelanation.ma",
+    "phone": "+212 600-121280",
+    "owner": "Centre dentaire la nation",
+    "city": "Casablanca",
+    "address": "200 Bd de Beni M'guild, Casablanca 20250, Morocco"
+  },
+  {
+    "name": "Centre dentaire SKELLIA Oulfa - Dr El Machouri Houda",
+    "email": "c.d.chifaa@gmail.com",
+    "owner": "Dr El Machouri Houda",
+    "city": "Casablanca",
+    "address": "Hay Hassani dior nasrani, Rue 15, lotissemen sikilia, Casablanca 20200, Morocco"
+  },
+  {
+    "name": "Centre dentaire Al Mouahidine",
+    "email": "contact@almouahidine.ma",
+    "owner": "Clinique AlMouahidine",
+    "city": "Casablanca",
+    "address": "Residence Ibn Toumart 1, immeuble C, résidence Al Mouahidine, Casablanca 20550, Morocco"
+  },
+  {
+    "name": "Cabinet Dentaire les Princesses - Docteur Samia Essaidi",
+    "email": "samia-ess@hotmail.com",
+    "owner": "Dr. Samia Essaidi",
+    "city": "Casablanca",
+    "address": "Al Mawlid Residence, extension - Les princesses, 27 Rue abou Lhassan es-sghir, Casablanca, Morocco"
+  },
+  {
+    "name": "Centre dentaire Afifi Ibtissam",
+    "phone": "06 64 69 69 94",
+    "owner": "Dr AFIFI Ibtissam",
+    "city": "Casablanca",
+    "address": "P3007, Casablanca, Morocco"
+  },
+  {
+    "name": "Beaulieu centre dentaire (Dr. Farkah Loubna)",
+    "email": "beaulieucentredentaire@gmail.com",
+    "owner": "Dr. Farkah Loubna",
+    "city": "Casablanca",
+    "address": "2ème étage n° 3, 75 Bd Chefchaouni, Casablanca 20250, Morocco"
+  },
+  {
+    "place_id": "ChIJAxL9BWotpg0REo4T-Xlvru8",
+    "name": "LIFE STYLE FITNESS",
+    "category": "Gym",
+    "rating": 4.5,
+    "reviews": 39,
+    "email": "info@lifefitness.ma",
+    "phone": "+212675455823",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "ETAGE RD, 19 LT SMARA, Casablanca 20200, Morocco"
+  },
+  {
+    "place_id": "ChIJmb3-JwAtpg0RyC9_3yN5MlA",
+    "name": "Brothers gym",
+    "category": "Gym",
+    "rating": 4.9,
+    "reviews": 20,
+    "email": "mabrothersport@gmail.com",
+    "phone": "+212674737373",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "143 Ave Mohamed Taieb Naciri, Casablanca 20240, Morocco"
+  },
+  {
+    "place_id": "ChIJbak8agCDqA0RQP1YXWHeN2c",
+    "name": "Saber fitness gym",
+    "category": "Gym",
+    "rating": 4.3,
+    "reviews": 6,
+    "email": "contact@charika.ma",
+    "phone": "unavailable",
+    "owner": "Said Badrhari",
+    "city": "Casablanca",
+    "address": "C5F4+J8F, Soualem, Morocco"
+  },
+  {
+    "place_id": "ChIJPWLs70nNpw0R7F4eD__MEYo",
+    "name": "Faher Bodybuilding",
+    "category": "Gym",
+    "rating": 4.3,
+    "reviews": 25,
+    "email": "contact@faher.ma",
+    "phone": "+212605685858",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "HCC5+3R2, Casablanca 20250, Morocco"
+  },
+  {
+    "place_id": "ChIJn_XcY-4ypg0REFh13oE2hR8",
+    "name": "Andalouss Gym",
+    "category": "Gym",
+    "rating": 3.9,
+    "reviews": 28,
+    "email": "info@andalouss.ma",
+    "phone": "unavailable",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "Hay Andalous Grp. 6, Rue 22, N16, Grand Casablanca, Casablanca, Casablanca 20100, Morocco"
+  },
+  {
+    "place_id": "ChIJA3z52P4tpg0RvWhpb6zicwg",
+    "name": "IRON ZONE GYM",
+    "category": "Gym",
+    "rating": 4.5,
+    "reviews": 4,
+    "email": "unavailable",
+    "phone": "+212693680243",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "BOULVARD LES FACULTES, Bd Haj Fateh, Casablanca 20000, Morocco"
+  },
+  {
+    "place_id": "ChIJg0sIeAAzpg0RljUdNENNOpU",
+    "name": "Othmane forme Gym",
+    "category": "Gym",
+    "rating": 5,
+    "reviews": 2,
+    "email": "contact@elotmanifitness.com",
+    "phone": "+212656519029",
+    "owner": "Othmane",
+    "city": "Casablanca",
+    "address": "GCRJ+4J2, Casablanca, Morocco"
+  },
+  {
+    "place_id": "ChIJsz8erg4tpg0Ra6VNl3AeHVE",
+    "name": "FITNESS PARK SIDI MAAROUF - SALLE DE SPORT SIDI MAAROUF",
+    "category": "Gym",
+    "rating": 4.7,
+    "reviews": 301,
+    "email": "dpo@fitnesspark-group.com",
+    "phone": "+212660819911",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "centre commercial O Village, Av. Abou Bakr el Kadiri, Casablanca, Morocco"
+  },
+  {
+    "place_id": "ChIJLZAldiwzpg0RAFY7pVEfpUI",
+    "name": "Spot fitness",
+    "category": "Gym",
+    "rating": 4.9,
+    "reviews": 54,
+    "email": "unavailable",
+    "phone": "+212622852778",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "hay chrifa boulevard ed daouha, Rue 10, Casablanca 20460, Morocco"
+  },
+  {
+    "place_id": "ChIJ0XSvFgC3pw0R-RFVa5SJTHM",
+    "name": "Lion fitness",
+    "category": "Fitness Center",
+    "rating": 5,
+    "reviews": 4,
+    "email": "lionfitnessari@gmail.com",
+    "phone": "unavailable",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "MJQH+JWQ Fadle allah, Mohammédia, Morocco"
+  },
+  {
+    "place_id": "ChIJ9UlPySrNpw0RIIfAv4wl5T8",
+    "name": "Easy Fitness Club",
+    "category": "Fitness Center",
+    "rating": 3.8,
+    "reviews": 12,
+    "email": "contact@efsmaroc.com",
+    "phone": "unavailable",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "Bd Saad Abou Jemaa, Quartier, Casablanca 12390, Morocco"
+  },
+  {
+    "place_id": "ChIJix8tpLfNpw0RwQ_glZrrbl0",
+    "name": "FALLAKI FITNESS",
+    "category": "Fitness Center",
+    "rating": 5,
+    "reviews": 6,
+    "email": "contact@playfitness.ma",
+    "phone": "unavailable",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "HFC6+X3Q, Casablanca 20670, Morocco"
+  },
+  {
+    "place_id": "ChIJuVJYiWMtpg0RV5TTC0Axfqg",
+    "name": "Club Mango Fitness",
+    "category": "Fitness Center",
+    "rating": 3.6,
+    "reviews": 99,
+    "email": "contact@charika.ma",
+    "phone": "unavailable",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "angle boulevard qods et boulevard taddart, 8 Rue 18, Casablanca 20450, Morocco"
+  },
+  {
+    "place_id": "ChIJn_pH_tjTpw0RXGvc2877spU",
+    "name": "X-TREME FIT",
+    "category": "Fitness Center",
+    "rating": 5,
+    "reviews": 2,
+    "email": "contact@xtremel.ma",
+    "phone": "+212665498205",
+    "owner": null,
+    "city": "Casablanca",
+    "address": "num 6, La cite des arts, Casablanca 20000, Morocco"
+  },
+  {
+    "place_id": "ChIJLXunYiNtpw0RDj83g3sFBB4",
+    "name": "Centre Dentaire Hachimi | Dentiste a Temara",
+    "category": "Dentist",
+    "rating": 5,
+    "reviews": 39,
+    "email": "centre.dentaire.shemsi@gmail.com",
+    "phone": "+212780763119",
+    "owner": "Yassine Hachimi Idrissi",
+    "city": "Rabat",
+    "address": "35, Résidence Al YOUSR, 1 Bd Omar Ibn Al Khattab, Témara, Morocco"
+  },
+  {
+    "place_id": "ChIJM3ZxW38Tpw0RkSb114zohLo",
+    "name": "Drif Dental center",
+    "category": "Dentist",
+    "rating": 5,
+    "reviews": 102,
+    "email": "drif.dental.center@gmail.com",
+    "phone": "+212661807606",
+    "owner": "Dr Yassine Drif",
+    "city": "Rabat",
+    "address": "N°1 andalous 2 Av. Abdelkrim El Khattabi, Témara 12000, Morocco"
+  },
+  {
+    "place_id": "ChIJK788k61rpw0RbwcUiT0NTgI",
+    "name": "Centre dentaire lahyani - Dentiste Rabat",
+    "category": "Dentist",
+    "rating": 4.8,
+    "reviews": 103,
+    "email": "contact@centredentairerabatsmilecenter.ma",
+    "phone": "+212777604360",
+    "owner": "Zineb Lahyani",
+    "city": "Rabat",
+    "address": "23 angle des rues Youssef Ibn Tachafine et Moulay Ahmad, Rue Moulay Ahmed Loukili, Rabat 10000, Morocco"
+  },
+  {
+    "place_id": "ChIJHWVlVvxrpw0RUTMmweQ_ECY",
+    "name": "Cabinet Dentaire Multidisciplinaire Dr Mohamed Reda Boutalib",
+    "category": "Dentist",
+    "rating": 4.7,
+    "reviews": 120,
+    "email": "unavailable",
+    "phone": "+212655302476",
+    "owner": null,
+    "city": "Rabat",
+    "address": "étage 1 Appt 3, 15 Rue Moulay Ahmed Loukili, Rabat 10020, Morocco"
+  },
+  {
+    "place_id": "ChIJIyAOLABppw0RU9ZC1qSy6xA",
+    "name": "Centre Dentaire VOLTAIRE & CO",
+    "category": "Dentist",
+    "rating": 5,
+    "reviews": 17,
+    "email": "contact@dentelia.fr",
+    "phone": "+212644221154",
+    "owner": null,
+    "city": "Rabat",
+    "address": "366J+4P5, Salé, Morocco"
+  },
+  {
+    "place_id": "ChIJwQJtbMtppw0Rt6YVD6DEWT8",
+    "name": "Centre dentaire Dr El M'hasbi",
+    "category": "Dentist",
+    "rating": 4.6,
+    "reviews": 10,
+    "email": "contact@www.centredentairerabatsmilecenter.ma",
+    "phone": "+212766907623",
+    "owner": "Dr El M'hasbi",
+    "city": "Rabat",
+    "address": "379 avenue Med 5, Appt 02, Lot Sidi Abdelah, Salé 11000, Morocco"
+  }
+]
