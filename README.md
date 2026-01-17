@@ -581,13 +581,7 @@ Solutions:
 
 ---
 
-## 📄 License
-
-MIT License - Feel free to use, modify, and distribute this project.
-
----
-
-## 📞 Support & Contact
+## Author
 
 **Creator:** Baddy Reda  
 **Status:** UM6P Student | AI & Agents Enthusiast  
@@ -595,5 +589,4 @@ MIT License - Feel free to use, modify, and distribute this project.
 ---
 
 **Last Updated:** January 11, 2026  
-**Version:** 1.0.0  
 **Status:** Production Ready ✅
