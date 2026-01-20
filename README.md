@@ -584,7 +584,9 @@ Solutions:
 ## Author
 
 **Creator:** Baddy Reda  
-**Status:** UM6P Student | AI & Agents Enthusiast 
+
+**Status:** UM6P Student | AI & Agents Enthusiast
+
 **Contact:** redabaddy@emines.um6p.ma
 
 ---
